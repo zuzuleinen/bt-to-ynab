@@ -26,3 +26,11 @@ bt-to-ynab downloadedTansactionsFromBT.csv > youreNewFileForYNAB.csv
 ```
 
 * Import `youreNewFileForYNAB.csv` in [YNAB](https://www.youneedabudget.com/)
+
+## Questions or suggestions
+
+I wrote this library in an attempt to avoid cleaning my apartment. Error handling is missing on purpose and this repo
+should not be used as a reference for good code.
+
+If you encounter a problem feel free to [open](https://github.com/zuzuleinen/bt-to-ynab/issues/new) an issue or send me
+an e-mail at **andrey.boar[at]gmail.com**
