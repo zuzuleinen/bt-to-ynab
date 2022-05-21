@@ -7,6 +7,8 @@ from [Banca Transilvania](https://www.bancatransilvania.ro/).
 
 # Installation
 
+Go should be [installed and set up](https://golang.org/doc/install) on your system.
+
 ```shell 
 go install github.com/zuzuleinen/bt-to-ynab
 ```
