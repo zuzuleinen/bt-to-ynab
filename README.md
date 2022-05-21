@@ -3,7 +3,7 @@
 If you are using [YNAB](https://www.youneedabudget.com/) you cannot link an account
 from [Banca Transilvania](https://www.bancatransilvania.ro/).
 
-`bt-to-ynab` will help you transform a transactions CSV file from *BT* format to *YNAB* format.
+`bt-to-ynab` will help you transform a transactions CSV file from **BT** format to **YNAB** format.
 
 # Installation
 
