@@ -18,7 +18,7 @@ go install github.com/zuzuleinen/bt-to-ynab
 # Usage
 
 * Login into your [BT24](https://www.bt24.ro/)
-* Download your transactions history from Conturile mele > Cautare tranzactii in .CSV format
+* Download your account transactions from `Conturile mele` > `Cautare tranzactii` in a .CSV format
 * Use
 
 ```shell
