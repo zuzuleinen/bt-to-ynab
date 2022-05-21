@@ -12,7 +12,7 @@ Go should be [installed and set up](https://golang.org/doc/install) on your syst
 Install `bt-to-ynab`:
 
 ```shell 
-go install github.com/zuzuleinen/bt-to-ynab
+go install github.com/zuzuleinen/bt-to-ynab@latest
 ```
 
 # Usage
