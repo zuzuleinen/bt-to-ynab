@@ -1,13 +1,9 @@
-# bt-to-ynab
-
-Convert [Banca Transilvania](https://www.bancatransilvania.ro/) account transactions CSV
-to [YNAB](https://www.youneedabudget.com/) format
-
 # About
 
 If you are using [YNAB](https://www.youneedabudget.com/) you cannot link an account
-from [Banca Transilvania](https://www.bancatransilvania.ro/). `bt-to-ynab` will help you transform a CSV file from BT
-format to YNAB format.
+from [Banca Transilvania](https://www.bancatransilvania.ro/).
+
+`bt-to-ynab` will help you transform a transactions CSV file from BT format to YNAB format.
 
 # Installation
 
